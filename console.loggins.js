@@ -1,6 +1,6 @@
 // console.loggins. MIT license.
 // https://github.com/mattwondra/console.loggins
-(function(c) {
+(function(window) {
   'use strict';
   
   var buffer = '                                                            ';
@@ -35,7 +35,8 @@
   ];
   var sweetNotes = '♩♪♫♬';
   
-  c.loggins = function(message) {
+  if (!window.console) { return; }
+  window.console.loggins = function(message) {
     var out = gloriousKenny.slice(0);
     var messageLines = [''];
     var lineIndex = 0;
@@ -63,7 +64,13 @@
         out[out.length - i - 1] += '   ' + messageLines[messageLines.length - i - 1];
       }
     }
-    c.log(out.join('\n'));
+    window.console.log(out.join('\n'));
   };
-  return null;
-})(this.console || {});
+})(g = window || global || {});
+
+if( typeof exports !== 'undefined' ) {
+  if( typeof module !== 'undefined' && module.exports ) {
+    exports = module.exports = this.console.loggins;
+  }
+  exports.loggins = this.console.loggins;
+} 
