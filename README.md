@@ -9,7 +9,7 @@ You've got a debug message. We've got ASCII art. Of Kenny Loggins. It's almost _
 Download the `console.loggins.js` source file and include it as a script in your project:
 
 ```
-<script src="/path/to/console.loggins.js">/* Buckle in... */</script>
+<script src="/path/to/console.loggins.js"> /* Buckle in... */ </script>
 ```
 
 In your custom JavaScript, issue `console.loggins('Any old string');` and Kenny Loggins will sing your message back to you in the console.
