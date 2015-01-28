@@ -1,0 +1,23 @@
+{
+  "name": "console.loggins",
+  "version": "0.0.1",
+  "description": "A polyfill for the yet-unproposed standard.",
+  "main": "console.loggins.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattwondra/console.loggins.git"
+  },
+  "keywords": [
+    "novelty",
+    "dangerzone"
+  ],
+  "author": "Matt Wondra <mattwondra@gmail.com> (http://mattwondra.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattwondra/console.loggins/issues"
+  },
+  "homepage": "https://github.com/mattwondra/console.loggins"
+}
