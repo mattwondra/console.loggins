@@ -43,3 +43,5 @@ Who cares? Come on people, it's a joke.
 
 Why not drop me a line [@mattwondra](https://twitter.com/mattwondra) so I can help myself believe
 that this novelty JavaScript plugin wasn't a _complete_ waste of my time.
+
+<meta content="http://p-fst1.pixstatic.com/54c84e49dbfa3f30cc018d1e.jpg" property="og:image" />
