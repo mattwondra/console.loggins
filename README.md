@@ -23,6 +23,11 @@ _[This is literally my life's crowning achievement —Ed.]_
 
 Sure, [why not](https://www.npmjs.com/package/console.loggins).
 
+```
+require('console.loggins');
+console.loggins('This is it! Make no mistake where you are');
+```
+
 ## FAQ
 
 __Should I use console.loggins in production?__  
