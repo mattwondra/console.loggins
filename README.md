@@ -2,11 +2,7 @@
 
 A polyfill for the yet-unproposed standard.
 
-You've got a debug message. We've got ASCII art.
-
-Of Kenny Loggins.
-
-Perfect.
+You've got a debug message. We've got ASCII art. Of Kenny Loggins. It's almost _too_ perfect.
 
 ## Usage
 
@@ -36,13 +32,9 @@ __What's the browser support like?__
 Let's say “modern browsers” and hope that covers it?
 
 __How big is console.loggins gzipped?__  
-I don't know! Come on people, it's a joke.
-
-__Why then?__  
-It made me giggle.
-
+Who cares? Come on people, it's a joke.
 
 ## Enjoy console.loggins?
 
-Why not drop me a line [@mattwondra](https://twitter.com/mattwondra) so I can feel better
-that this novelty JS library wasn't a _complete_ waste of my time.
+Why not drop me a line [@mattwondra](https://twitter.com/mattwondra) so I can help myself believe
+that this novelty JavaScript plugin wasn't a _complete_ waste of my time.
