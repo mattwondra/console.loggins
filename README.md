@@ -14,7 +14,7 @@ Download the `console.loggins.js` source file and include it as a script in your
 
 In your custom JavaScript, issue `console.loggins('Any old string');` and Kenny Loggins will sing your message back to you in the console.
 
-![Epic](http://p-fst1.pixstatic.com/54c84458dbfa3f31eb018471.jpg)
+![Epic](http://p-fst1.pixstatic.com/54c84e49dbfa3f30cc018d1e.jpg)
 
 _[This is literally my life's crowning achievement —Ed.]_
 
