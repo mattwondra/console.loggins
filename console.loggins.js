@@ -35,7 +35,7 @@
   ];
   var sweetNotes = '♩♪♫♬';
   
-  if (!window.console) { return; }
+  window.console = window.console || {};
   window.console.loggins = function(message) {
     var out = gloriousKenny.slice(0);
     var messageLines = [''];
@@ -70,7 +70,7 @@
 
 if( typeof exports !== 'undefined' ) {
   if( typeof module !== 'undefined' && module.exports ) {
-    exports = module.exports = this.console.loggins;
+    exports = module.exports = g.console.loggins;
   }
-  exports.loggins = this.console.loggins;
+  exports.loggins = g.console.loggins;
 } 

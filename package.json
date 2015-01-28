@@ -1,6 +1,6 @@
 {
   "name": "console.loggins",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "A polyfill for the yet-unproposed standard.",
   "main": "console.loggins.js",
   "scripts": {
