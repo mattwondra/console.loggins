@@ -1,7 +1,5 @@
 # console.loggins()
 
-A polyfill for the yet-unproposed standard.
-
 You've got a debug message. We've got ASCII art. Of Kenny Loggins. It's almost _too_ perfect.
 
 ## Usage
